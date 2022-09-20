@@ -41,7 +41,7 @@ function Main() {
   return (
     <div>
       <header>
-        <h1 id="h1">Minhas</h1>
+        <h1 id="h1">Minhas Alpha</h1>
         <InputForm onAddItem={onAddItem}></InputForm>
       </header>
       <main>
